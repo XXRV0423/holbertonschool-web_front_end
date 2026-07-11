@@ -692,6 +692,9 @@ ul.row {
 .card-work .card-outer {
     position: relative;
     overflow: hidden;
+}
+
+.card-work:hover .card-outer {
     transform: scale(0.95);
 }
 
